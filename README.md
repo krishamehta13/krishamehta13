@@ -99,9 +99,3 @@ interests = [
     "Speech Enhancement"
 ]
 ```
-
----
-
-<h3 align="center">
-🚀 Always Curious. Always Learning. Always Building.
-</h3>
