@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krisha Mehta</h1>
+<h1 align="center">Hi, I'm Krisha Mehta</h1>
 <h3 align="center">AI/ML • Quant Finance • Robotics • Software Engineering</h3>
 
 <p align="center">
@@ -27,12 +27,10 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student
+- 🎓 Pre final year mathematics student at IIT Kharagpur 
 - 🤖 Interested in AI, Robotics and Reinforcement Learning
 - 📈 Exploring Quantitative Finance & Market Microstructure
-- 🔬 Working on Diffusion Models and Speech Enhancement
 - 💻 Competitive Programmer
-- 🌱 Always learning something new
 
 ---
 
