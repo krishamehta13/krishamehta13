@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:C770F0,100:4169E1&height=250&section=header&text=Krisha%20Mehta&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
-<h1 align="center">Hi 👋, I'm Krisha Mehta</h1>
-
 <h3 align="center">
 AI/ML • Quant Finance • Robotics • Software Engineering
 </h3>
@@ -46,7 +44,7 @@ Building intelligent systems at the intersection of AI, Mathematics, and Finance
 class KrishaMehta:
 
     def __init__(self):
-        self.role = "CS Student"
+        self.role = "Mathematics Student at IIT Kharagpur"
         self.interests = [
             "Artificial Intelligence",
             "Quantitative Finance",
@@ -187,53 +185,10 @@ Algorithms
 | Project | Description |
 |----------|-------------|
 | 🎤 Diffusion Speech Enhancement | Implemented diffusion-based speech enhancement models |
-| 🔍 Retrieval-Augmented Generation | End-to-end RAG pipeline using LLMs and vector DBs |
 | 📈 Market Making Simulator | Inventory-aware market making framework |
 | 💹 Interest Rate Curve Construction | Yield curve bootstrapping and fixed-income analytics |
 | 🤖 Robotics Navigation | Multi-agent path planning and obstacle avoidance |
 | 🧠 PPO Reinforcement Learning | PPO implementation from scratch |
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=midnight-purple"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&row=1"/>
-
-</p>
 
 ---
 
@@ -251,7 +206,7 @@ Algorithms
 
 <h2 align="center">
 
-✨ Always Curious. Always Learning. Always Building. ✨
+The meaning emerges after teh journey <3
 
 </h2>
 
