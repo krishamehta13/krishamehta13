@@ -206,7 +206,7 @@ Algorithms
 
 <h2 align="center">
 
-The meaning emerges after the journey 💜
+The Meaning Emerges After The Journey
 
 </h2>
 
