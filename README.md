@@ -31,7 +31,7 @@ Building intelligent systems at the intersection of AI, Mathematics, and Finance
 </a>
 
 <a href="https://orcid.org/0009-0007-2920-4866"> 
-<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/> 
+<img src="https://img.shields.io/badge/ORCID-FF71B4?style=for-the-badge&logo=orcid&logoColor=white"/> 
 </a>
 
 </p>
