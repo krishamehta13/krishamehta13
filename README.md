@@ -18,20 +18,20 @@ Building intelligent systems at the intersection of AI, Mathematics, and Finance
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/krisha-mehta-1984a9313/">
 <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:krishamehta1313@gmail.com">
 <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/krishamehta13">
 <img src="https://img.shields.io/badge/GitHub-7B68EE?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_MEDIUM_LINK">
-<img src="https://img.shields.io/badge/Medium-C770F0?style=for-the-badge&logo=medium&logoColor=white"/>
+<a href="https://orcid.org/0009-0007-2920-4866"> 
+<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/> 
 </a>
 
 </p>
@@ -184,11 +184,10 @@ Algorithms
 
 | Project | Description |
 |----------|-------------|
-| 🎤 Diffusion Speech Enhancement | Implemented diffusion-based speech enhancement models |
-| 📈 Market Making Simulator | Inventory-aware market making framework |
-| 💹 Interest Rate Curve Construction | Yield curve bootstrapping and fixed-income analytics |
-| 🤖 Robotics Navigation | Multi-agent path planning and obstacle avoidance |
-| 🧠 PPO Reinforcement Learning | PPO implementation from scratch |
+| 🎤 Integrated Diffusion World Models and PPO in RL Trading Agent
+| 📈 Scalable Asynchronous Translation Backend Service
+| 💹 Yield curve caliberation and fixed-income analytics 
+| 🤖 Multi-agent path planning and obstacle avoidance 
 
 ---
 
