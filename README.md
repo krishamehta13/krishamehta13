@@ -182,12 +182,12 @@ Algorithms
 
 # 📌 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🎤 Integrated Diffusion World Models and PPO in RL Trading Agent
-| 📈 Scalable Asynchronous Translation Backend Service
-| 💹 Yield curve caliberation and fixed-income analytics 
-| 🤖 Multi-agent path planning and obstacle avoidance 
+| Project |
+|----------|
+| 🎤 Integrated Diffusion World Models and PPO in RL Trading Agent |
+| 📈 Scalable Asynchronous Translation Backend Service |
+| 💹 Yield curve caliberation and fixed-income analytics |
+| 🤖 Multi-agent path planning and obstacle avoidance |
 
 ---
 
