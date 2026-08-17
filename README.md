@@ -8,10 +8,6 @@ AI/ML • Quant Finance • Robotics • Software Engineering
 Building intelligent systems at the intersection of AI, Mathematics, and Finance.
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&color=C770F0&center=true&vCenter=true&width=700&lines=AI+Engineer;Quant+Research+Enthusiast;Robotics+Developer;Competitive+Programmer"/>
-</p>
-
 ---
 
 # 🌐 Connect With Me
