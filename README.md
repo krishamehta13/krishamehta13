@@ -1,9 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:C770F0,100:4169E1&height=250&section=header&text=Krisha%20Mehta&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
-<h3 align="center">
-AI/ML • Quant Finance • Robotics • Software Engineering
-</h3>
-
 <p align="center">
 Building intelligent systems at the intersection of AI, Mathematics, and Finance.
 </p>
