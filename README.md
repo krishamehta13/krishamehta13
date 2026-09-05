@@ -1,11 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:C770F0,100:4169E1&height=250&section=header&text=Krisha%20Mehta&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
-<p align="center">
-Building intelligent systems at the intersection of AI, Mathematics, and Finance.
-</p>
-
 ---
-
 # 🌐 Connect With Me
 
 <p align="center">
@@ -56,53 +51,6 @@ class KrishaMehta:
 ```
 
 ---
-
-# 💜 Domains
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-### 🤖 AI & ML
-LLMs  
-Diffusion Models  
-RAG Systems  
-RL
-
-</td>
-
-<td width="25%" align="center">
-
-### 📈 Quant
-Market Making  
-Stochastic Models  
-Risk Analysis  
-Trading
-
-</td>
-
-<td width="25%" align="center">
-
-### 🚀 Robotics
-Path Planning  
-Multi-Agent Systems  
-Navigation  
-Control
-
-</td>
-
-<td width="25%" align="center">
-
-### 💻 Software
-Backend Systems  
-Python  
-C++  
-Algorithms
-
-</td>
-
-</tr>
-</table>
 
 ---
 
@@ -171,28 +119,6 @@ Algorithms
 </p>
 
 ---
-
-# 📌 Featured Projects
-
-| Project |
-|----------|
-| 🎤 Integrated Diffusion World Models and PPO in RL Trading Agent |
-| 📈 Scalable Asynchronous Translation Backend Service |
-| 💹 Yield curve caliberation and fixed-income analytics |
-| 🤖 Multi-agent path planning and obstacle avoidance |
-
----
-
-# 💡 Current Focus
-
-- Diffusion Models
-- Reinforcement Learning
-- Quantitative Trading
-- Market Microstructure
-- Speech Enhancement
-- Robotics
-- Large Language Models
-
 ---
 
 <h2 align="center">
