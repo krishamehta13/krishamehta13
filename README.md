@@ -52,8 +52,6 @@ class KrishaMehta:
 
 ---
 
----
-
 # 🛠️ Tech Stack
 
 ### Languages
@@ -118,7 +116,6 @@ class KrishaMehta:
 
 </p>
 
----
 ---
 
 <h2 align="center">
